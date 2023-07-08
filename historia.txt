@@ -18,7 +18,11 @@ Zorojuro es una persona que contribuye en este proyecto
 =======
 experimento 1
 experimento 2
+<<<<<<< HEAD
 >>>>>>> eaf6bd1 (Exp 2)
+=======
+experimento 3
+>>>>>>> 26dad1f (exp2.5)
 
 master 1
 master 2
